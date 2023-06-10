@@ -6,14 +6,9 @@ Staking contract deployed to: 0x9D8f7dF6c746BD5b0ba3e916F7604503c03DC174
 
 MetaMask: 0x3fAeBd4a2C1B1CaDdcb99CA7dC5381d5683122Ba
 
-<!-- This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks: -->
-
-<!-- ```shell
-<!-- npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
+[running tasks}
+npm install
+npx hardhat help
+npx hardhat compile
 npx hardhat node
-npx hardhat run scripts/deploy.js
-``` --> -->
+npx hardhat run scripts/deploy.js -- network (your EVM)
