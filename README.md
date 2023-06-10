@@ -1,8 +1,8 @@
 Deploy Address(LINEA-TESTNET);
 
-RewardToken contract deployed to: 0xf48B2086a41B9eF1C5A188d4eE8cb92c8F542F48
+RewardToken contract deployed to: 0xc0C76c75545836db4461CbA428190cB630Aa57A7
 
-Staking contract deployed to: 0xeE3b4d1b118875E6a514972d2a5708F3F693Bcbb
+Staking contract deployed to: 0x9D8f7dF6c746BD5b0ba3e916F7604503c03DC174
 
 MetaMask: 0x3fAeBd4a2C1B1CaDdcb99CA7dC5381d5683122Ba
 
